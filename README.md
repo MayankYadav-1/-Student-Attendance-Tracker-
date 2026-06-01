@@ -23,31 +23,6 @@ CSV: Used to export the attendance data to CSV format for easy reporting and dat
 
 FileDialog and MessageBox: Tkinter modules that provide file selection dialogs and user feedback messages, respectively.
 
-How to Run:
-Clone or Download the Repository:
-
-Clone the repository from GitHub or download the ZIP file of the project.
-
-If cloning, use the following Git command:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/student-attendance-tracker.git
-cd student-attendance-tracker
-Install Python:
-
-Ensure that Python 3.x is installed on your system. No additional Python libraries or packages are required, as the project uses only Python's built-in modules.
-
-Run the Application:
-
-Simply run the Python script attendance_tracker.py using the following command:
-
-bash
-Copy
-Edit
-python attendance_tracker.py
-A graphical window will open, where you can interact with the application.
 
 Instructions for Use:
 Adding Students:
